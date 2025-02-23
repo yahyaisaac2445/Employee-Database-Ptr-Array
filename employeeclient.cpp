@@ -9,6 +9,7 @@
 using namespace std;
 
 //Creator: Isaac Yahya
+//Date: 2/23/2025
 /*******************************************************************
 This program is a database that is used to hold employee information. You can search for an employee, copy all the employee info onto a new file, you can add new employees and delete old ones. You can list all the employee's last names, calculate the average salary, as well as show the salaries higher than average and the ones lower than average. This program is meant to demonstrate my ability and knowledge with object oriented programming, data structures, pointers, as well as a solid understanding of c++ and basic coding practices. Employee data is stored within an array of pointers that point towards employee objects. Each employee is an object, that holds different variables such as strings for the name and address, and int for the salary and ID, 
  *****************************************************************/
